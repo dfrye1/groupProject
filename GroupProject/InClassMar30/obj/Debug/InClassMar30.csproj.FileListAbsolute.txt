@@ -1,0 +1,7 @@
+C:\Users\dkfry\OneDrive\UCO Spring 2021\Bus APP project\InClassMar30\InClassMar30\obj\Debug\InClassMar30.csprojAssemblyReference.cache
+C:\Users\dkfry\OneDrive\UCO Spring 2021\Bus APP project\InClassMar30\InClassMar30\obj\Debug\InClassMar30.csproj.CoreCompileInputs.cache
+C:\Users\dkfry\OneDrive\UCO Spring 2021\Bus APP project\InClassMar30\InClassMar30\bin\Debug\InClassMar30.exe.config
+C:\Users\dkfry\OneDrive\UCO Spring 2021\Bus APP project\InClassMar30\InClassMar30\bin\Debug\InClassMar30.exe
+C:\Users\dkfry\OneDrive\UCO Spring 2021\Bus APP project\InClassMar30\InClassMar30\bin\Debug\InClassMar30.pdb
+C:\Users\dkfry\OneDrive\UCO Spring 2021\Bus APP project\InClassMar30\InClassMar30\obj\Debug\InClassMar30.exe
+C:\Users\dkfry\OneDrive\UCO Spring 2021\Bus APP project\InClassMar30\InClassMar30\obj\Debug\InClassMar30.pdb
